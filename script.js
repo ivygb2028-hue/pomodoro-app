@@ -216,5 +216,3 @@ document.addEventListener('DOMContentLoaded', () => {
     const tasks = new TaskManager();
     const settings = new SettingsManager();
 });
-
-
