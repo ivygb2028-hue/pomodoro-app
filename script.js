@@ -217,9 +217,4 @@ document.addEventListener('DOMContentLoaded', () => {
     const settings = new SettingsManager();
 });
 
-index.html
-/c:/Users/Ivanna Itzel/.gemini/antigravity/playground/triple-pioneer
-
-styles.css
-/c:/Users/Ivanna Itzel/.gemini/antigravity/playground/triple-pioneer
 
